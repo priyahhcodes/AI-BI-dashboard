@@ -1,0 +1,7 @@
+{
+  "name": "ai-bi-dashboard",
+  "version": "1.0.0",
+  "description": "Prompt-driven BI dashboard builder: upload a CSV, describe the dashboard, get animated KPIs, charts, DAX measures and shareable live links.",
+  "scripts": { "start": "node server.js" },
+  "license": "MIT"
+}
